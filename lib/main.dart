@@ -344,8 +344,8 @@ Future<void> _initializeZegoUIKit() async {
     try {
       // Initialize with custom error handler
   ZegoUIKit().init(
-    appID: 1293173730,
-    appSign: "7fb005347d31f120fa6edd60264427451cc456eaa3cd205e209898bda98e7cec",
+    appID: ,
+    appSign: "",
         // Fix: Use the correct scenario enum value for better compatibility
         scenario: ZegoScenario.General,
   );
