@@ -2,6 +2,15 @@
 
 A Flutter application with Firebase integration for authentication and data storage.
 
+
+![UI Demo](https://github.com/Mostafa-Hani19/calculator/blob/main/assets/assets/1.png?raw=true)
+
+![UI Demo](https://github.com/Mostafa-Hani19/calculator/blob/main/assets/assets/2.png?raw=true)
+![UI Demo](https://github.com/Mostafa-Hani19/calculator/blob/main/assets/assets/3.png?raw=true)
+![UI Demo](https://github.com/Mostafa-Hani19/calculator/blob/main/assets/assets/4.png?raw=true)
+![UI Demo](https://github.com/Mostafa-Hani19/calculator/blob/main/assets/assets/5.png?raw=true)
+
+
 ## Firebase Setup Instructions
 
 The app is currently displaying an "API key not valid" error because Firebase hasn't been properly set up. Follow these steps to fix it:
