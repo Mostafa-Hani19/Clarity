@@ -15,6 +15,8 @@ A Flutter application with Firebase integration for authentication and data stor
 
 ![Settings](https://github.com/Mostafa-Hani19/clarity/blob/master/assets/assets/3.jpg?raw=true)
 
+![Settings](https://github.com/Mostafa-Hani19/clarity/blob/master/assets/assets/4.jpg?raw=true)
+![Settings](https://github.com/Mostafa-Hani19/clarity/blob/master/assets/assets/5.jpg?raw=true)
 
 
 
