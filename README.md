@@ -3,12 +3,10 @@
 A Flutter application with Firebase integration for authentication and data storage.
 
 
-![UI Demo](https://github.com/Mostafa-Hani19/Clarity/blob/main/assets/assets/1.png?raw=true)
+![screenshot 1](https://github.com/Mostafa-Hani19/clarity/blob/main/assets/1.jpg?raw=true)
+![screenshot 2](https://github.com/Mostafa-Hani19/clarity/blob/main/assets/2.jpg?raw=true)
+![screenshot 3](https://github.com/Mostafa-Hani19/clarity/blob/main/assets/3.jpg?raw=true)
 
-![UI Demo](https://github.com/Mostafa-Hani19/Clarity/blob/main/assets/assets/2.png?raw=true)
-![UI Demo](https://github.com/Mostafa-Hani19/Clarity/blob/main/assets/assets/3.png?raw=true)
-![UI Demo](https://github.com/Mostafa-Hani19/Clarity/blob/main/assets/assets/4.png?raw=true)
-![UI Demo](https://github.com/Mostafa-Hani19/Clarity/blob/main/assets/assets/5.png?raw=true)
 
 
 ## Firebase Setup Instructions
