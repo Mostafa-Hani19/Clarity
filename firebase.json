@@ -1,0 +1,25 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "clarity-app-1d42c",
+          "appId": "1:420246631473:android:662794b80741e9d4e05110",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "clarity-app-1d42c",
+          "configurations": {
+            "android": "1:420246631473:android:662794b80741e9d4e05110",
+            "ios": "1:420246631473:ios:7b6cce1097471e2be05110",
+            "macos": "1:420246631473:ios:7b6cce1097471e2be05110",
+            "web": "1:420246631473:web:94c124bc9327a935e05110",
+            "windows": "1:420246631473:web:c171d3da474fce27e05110"
+          }
+        }
+      }
+    }
+  }
+}

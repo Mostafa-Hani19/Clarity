@@ -1,0 +1,8 @@
+{
+  "rules": {
+    "smart_glasses": {
+      ".read": true,
+      ".write": true
+    }
+  }
+} 

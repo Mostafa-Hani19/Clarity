@@ -1,0 +1,79 @@
+person
+car
+bicycle
+motorcycle
+bus
+truck
+traffic light
+stop sign
+bench
+fire hydrant
+street sign
+trash can
+mailbox
+tree
+lamp post
+dog
+cat
+bird
+chair
+sofa
+table
+bed
+television
+laptop
+refrigerator
+microwave
+oven
+stove
+sink
+toilet
+bathtub
+shower
+washing machine
+dryer
+door
+window
+clock
+mirror
+bookshelf
+cabinet
+cupboard
+picture frame
+rug
+vacuum cleaner
+fan
+air conditioner
+curtain
+light switch
+remote control
+phone
+keyboard
+mouse
+backpack
+umbrella
+helmet
+shoe
+bottle
+mug
+plate
+fork
+spoon
+knife
+bowl
+pan
+pot
+broom
+mop
+bucket
+pillow
+blanket
+towel
+plant
+recycle bin
+garage door
+fence
+sidewalk
+crosswalk
+manhole
+construction cone
